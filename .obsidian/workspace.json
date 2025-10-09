@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "8417cec42fced203",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e140d6f662abaf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1006c706b22c0a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZSV/Banky?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banky?"
+            }
+          },
+          {
+            "id": "1ded203e65ab5c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FY/Elektřina a magnetismus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektřina a magnetismus"
+            }
+          },
+          {
+            "id": "ada387a1bbfd7db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Čj/literatura/Baroko.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baroko"
+            }
+          },
+          {
+            "id": "2758c8c076ed3713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FY/Elektřina a magnetismus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektřina a magnetismus"
+            }
+          },
+          {
+            "id": "fdfdc984b6b91771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CH/Reakce v organické chemii.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reakce v organické chemii"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b45961bbdba489f",
+    "type": "split",
+    "children": [
+      {
+        "id": "071d7bc16baae583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66c9e0fe6895d7bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31d2f710e9cab3d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9035c851ace15ccd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "937cb08e6689e1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "21186f78cc2dbd4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79d0d7f758f41db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Čj/mluvnice/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test"
+            }
+          },
+          {
+            "id": "376e5a00db1b9873",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D/Konec 30. Leté války.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Konec 30. Leté války"
+            }
+          },
+          {
+            "id": "f4a5854bfb15b605",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8eaf9698dad73b45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D/Konec 30. Leté války.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Konec 30. Leté války"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ded203e65ab5c67",
+  "lastOpenFiles": [
+    "Čj/mluvnice/idk.md",
+    "Čj/literatura/klasicismus a osvícenství.md",
+    "Čj/literatura/Baroko.md",
+    "CH/Reakce v organické chemii.md",
+    "ZSV/Banky?.md",
+    "BI/Druho-ústí.md",
+    "Untitled.canvas",
+    "Pasted image 20250911110321.png",
+    "D/Evropa 1815-1848.md",
+    "FY/Elektřina a magnetismus.md",
+    "D/Konec 30. Leté války.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Welcome.md",
+    "CH",
+    "2025-09-08.md",
+    "FY",
+    "Čj/mluvnice",
+    "ZSV",
+    "Čj/literatura",
+    "Čj",
+    "D",
+    "BI"
+  ]
+}

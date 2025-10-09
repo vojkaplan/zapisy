@@ -1,0 +1,57 @@
+- do 18. století
+- církevní monopole
+	- katolické země byli proti reformátorům
+	- reformátoři katolíky
+- baroko původně hanlivý název ("křivá perla")
+- nedůvěra v rozum
+- růst mysticismu
+- extrémy, kontrasty, expresivita
+- dualismus duch vs člověk, život vs smrt
+- stavbaři se snaží ohromit, používají k tomu optické iluze
+- 2 proudy:
+	- 1 stylizovanost a abstraktnost 
+		- italové a španělé
+		- Teresa de Jesus (1515 -1582)
+		- Juan de la Cruse 
+		- proti nim byl Luis de gorgora y argote 
+			- aristokratičnost, složitost -> gorgorismus (v italii mariismus podle jana křtitele)
+		- andreas griphyus (1616-1644)
+			- soustředí se na témata zániku a hrůzy ze smrti
+		- pedro calderon de la varca (1600 -1681)
+			- zalamejský rychtář
+			- život je sen
+	- 2 zachycují reálný život své doby a nadsazují negativní jevy a zachycují pocit bezmoci proti řádu světa
+		- Hans Jakob Christoffel von GrimmelsHausen
+			- dobrodužství Simplicia Simpliciscima
+- v česku 2 proudy domácí a exilová 
+	- problém dostat se k česky psané literatuře
+	- domácí: 
+		- kancionály - náboženské zpěvníky
+			- Jiřík Lholovský - "Písně Katolické"
+			- Václav Matěj Šteyer - "Kancionář Český"
+			- Jan Josef Božan - "Slavíček rájský"
+			- Antonín Koniáš - "citara nového zákona"
+			- Václav Karel Holan Rovenský- "Kaplan královská zpěvní"
+			- Felix Kadlinský- "Vzdoroslavíček"
+			- Adam Václav Michna z Otravovic - "česká mariánská muzika","svatoroční muzika", "Loutna česká"
+			- Fridrich Bridel - "co Bůh, člověk", "život sv. Ivana"
+			- Václav Jan Rosa - tzv. Alamodova poezie "Discursus Lypirona"
+			- "čechořečnost"
+___
+- Komenský
+	- útěšné spisy - deníček od depresí
+		- truchliví I - IV
+			- rozhovor mezi truchlivím, vírou, rozumem a kristem
+		- hlubina bezpečnosti
+		- Labyrint světa a ráj srdce
+			- svět je zobrazen jako město -> 6 hrubých skupin
+			- zámek "královny světa" moudrosti a hrad štěstí
+			- 2 průvodci : Vševěd Všudybud a Mámení
+				- brýle ze skel domění a obruby zvyku
+				- uzda všetečnosti
+		- "kšaft (závěť) umírající matky jednoty bratrské"
+		- "listové do nebe"
+	- školní hry - "schola ludus" (škola hrou)
+- Pavel Shára ze Shoře
+- Pavel Stránský 
+- Jiří Třanoský

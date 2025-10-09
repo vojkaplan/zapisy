@@ -1,0 +1,7 @@
+- katolíci vs protestanti
+- bojovalo se ve střední Evropě
+- velice využíváni žoldnéři
+- bitva na bílé hoře -> nucená katolizace -> území pleněny nepřáteli katolíků
+	- plenili Sasové, následně švédové
+- 1648 probíhala mírová jednání ve  Westfálské oblasti, Münster a Ostmadrig
+- Westfálský mír : kompromis

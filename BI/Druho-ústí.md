@@ -1,0 +1,81 @@
+- mají celoum (?)
+- mají pusu a řiť
+### ostrokožci
+- paprsčitá souměrnost
+- ježovka (mořský ježek) / hvězdice
+- ambulakrální soustava
+	- systém vodních cév- v cévách proudí voda a další složky
+	- proudí do tzv. ambulakrální nožky
+	- funkce cévní vylučovací a dýchací soustavy
+- má pevné nožky (pelicelárie a ostny)
+- sticky blob ze subnautiky
+- žvýkací útvar = tzv aristotelova lucerna
+- jednoduché miskové oči
+	- sferidia = polohovací orgán
+- larva je pohyblivá
+- třídy:
+	- ježovky - ježovka jedlá
+	- hvězdice
+	- hadice
+	- sumýši - sumýš (mořská okurka)
+	- liljice - 
+### Strunatci
+- všichni mají tři zárodečné listy
+- bilaterární 
+- special traits:
+	- mají hřbetní strunu (proto-páteř) -> pružná elastická
+	- trubicovitá nervová soustava
+	- žaberní šťerbiny
+	- cévní soustava -> srdce lezí na břišní straně, daný krevní objěh
+	- trávící soustava ve tvaru trubice - prochází středem těla, začíná ústním otvorem končí pravým ocasem
+#### pláštěnci kopinatci a obratlovci
+- nižší - nedůležití
+	- pláštěnci 
+		- struna pouze v larválním stádiu (ontogenetická regrese), larva dokonalejší než dospělec
+		- mají plášť
+		- zástupci : sulka, salpy, vršenky
+	- kopinatci - mají pouze evoluční význam; mají zachovalé znaky strunatců po celý život
+- vyšší - obratlovci
+	- bezčelistnatí
+		- Kruho-ústí
+			- mihule
+				- starobylé
+				- nemají ploutve (had s blanou na zádech)
+				- huba jako drill
+				- larva "mínoha"
+				- anadromní tah
+		- paryby
+			- mají vystuženou pouze vrchní část ocasu
+			- nemají kosti, výstuha je chrupavčitá
+			- zuby ze šupin - není kožního původu - email = sklovina
+				- sklovina, dřeň, cévy
+			- dýchání - nasají ústy -> děravým hrtanem se dostane do ožaberního prostoru -> okysličí tělo -> žaberními štěrbinami jde ven z těla
+			- dúležitý je čich, zrak je u nich na prd
+			- spirální řasa (tiflosolis)
+			- játra - až 10% hmotnosti těla (působí jako tzv. hydrostatický orgán - řeší dekompresi)
+			- párový penis, samec samici přidržuje aby neutekla
+			- téměř všude a téměř vždy mořští 
+			- chiméry - hlubiné paryby
+				- výrazný sexuální dimorfismus
+	- čelistnatí
+___
+#### Ekologie ryb
+- vnější žábry = parohy axolotla
+- Kapr
+- 4 rybí pásma podle vlasnosti vody
+- anadromní a katadromní tah
+- ryba 
+	- kapr 
+	- platýs
+	- klaun očkatý
+# systém ryb
+- dvoudyšní
+	- bahník - pouze na jižní polokouli
+- lakotoploutví
+	- latimérie 
+- paprskoploutí
+	- chrupavčití
+		- jeseter %% džeseter %%
+			- pouze na sev. polokouli
+		- bycha
+	- kostnatí

@@ -1,0 +1,3 @@
+- Cartesianská filozofie
+- poměrně abstraktní chápání přírody
+- znovu inspirace antikou
