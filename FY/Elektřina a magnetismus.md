@@ -27,7 +27,7 @@
 - elektrický potenciál = fí
 	- země má potenciál 0
 	- elektrický potenciál bodu závisý na jeho poloze v el. poli
-- $\phi$ = potenciál (J/C)
+- $\phi$ = potenciál (J/C) = (V)
 	- $\phi$ = Ep/q
 	- $\phi$ = k*|Q|/r
 	- $\phi = \frac{W}{q}$ 
@@ -40,4 +40,7 @@
 - orientační polarizace
 ## Kapacita
 - $C=\frac{Q}{\phi}$
-- vychází ve faradech (F)
+- vychází ve faradech (F) = C/V
+- kondenzátor
+	- přibližně baterka (sprinter baterka)
+- W = $\frac{1}{2}cu^2$
