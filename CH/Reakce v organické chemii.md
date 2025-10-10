@@ -56,3 +56,22 @@ ___
 	- nejsou náchylné k heterolyckému štěpení vazeb (za vzniku bvou odlišně nabitých částic)
 	- dříve označovány jako tzv. parafíni ("málo slučivé")
 	- typickou reakcí je radikálová substituce (homolytické štěpení vazeb)
+- radikálové reakce
+	- probíhají za účasti radikálů
+	- radikály - velmi reaktivní částice, lichý počet elektronů
+	- probíhají tzv. řetězovým mechanismem
+	- skládá se ze tří fází:
+		- iniciace
+			- dojde k homolytickému štěpení vazeb, vznikají 2 radikály
+			- $X-X$ -UV> $X•+•X$
+		- propagace (Horká brambora)
+			- $CH_4 + CL•$ -> $CH_3• + HCl$
+			- $CH_3•+Cl-Cl$ ->$CH_3Cl + Cl•$ 
+		- terminace
+			- $Cl•+•Cl$ -> $Cl_2$
+			- inhibice = ukončení reakce pomocí nové látky 
+	- jsou iniciovány vysokými teplotami, UV zářením nebo radikálovým činidlem
+	- radikálová sulforace $CH_4 + Cl_2 + SO_2$ -> $CH_3SO_2Cl + HCl$ 
+	- radikálová nitrace $CH_4 + HNO_3$ -> $CH_3NO_2 + H_2O$ 
+	- Krakování = rozseknutí dlouhých řetězců
+		- vznikají dva kratší (tam kde se sekne je dvojitá vazba)
