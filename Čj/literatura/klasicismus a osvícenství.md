@@ -1,3 +1,13 @@
 - Cartesianská filozofie
 - poměrně abstraktní chápání přírody
 - znovu inspirace antikou
+- začátky ateismu
+- osvícenci - dbali na učení, cca scientist
+- pyrene corneile
+	- "Vdova"
+	- "Komická iluze"
+	- "Cid"
+	- "Titus a Berenica"
+	- "Britannicus"
+	- "Berencai"
+	- "faidra"
