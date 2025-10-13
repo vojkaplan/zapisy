@@ -93,7 +93,7 @@
 - věta jednoduchá xx souvětí
 	- věta jednoduchá = věta
 	- souvětí = spojení dvou a více jednoduchých vět ve vyšší skladební jednotu
-		- podřadná
+		- podřadná - pouze jedna věta hlavní
 		- souřadné - obsahuje nejméně 2 věty hlavní
 	- polovětná konstrukce = skladební utvar kde infinitiv, přechodník nebo příčestník plní funkci věty
-	- 
+- základní skladební členy
