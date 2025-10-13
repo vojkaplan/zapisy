@@ -90,3 +90,10 @@
 - věty podle členitosti: 
 	- věta jednočlenná - základ přísudek nemá podmět
 	- věta dvoučlenná - taková která obsahuje tzv základní stavební dvojci
+- věta jednoduchá xx souvětí
+	- věta jednoduchá = věta
+	- souvětí = spojení dvou a více jednoduchých vět ve vyšší skladební jednotu
+		- podřadná
+		- souřadné - obsahuje nejméně 2 věty hlavní
+	- polovětná konstrukce = skladební utvar kde infinitiv, přechodník nebo příčestník plní funkci věty
+	- 
