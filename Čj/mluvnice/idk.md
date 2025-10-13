@@ -97,3 +97,4 @@
 		- souřadné - obsahuje nejméně 2 věty hlavní
 	- polovětná konstrukce = skladební utvar kde infinitiv, přechodník nebo příčestník plní funkci věty
 - základní skladební členy
+	- větné členy = výrazy které ve větě nebo větném ekvivalentu vstupují do vztahů s jinými výrazy
