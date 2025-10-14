@@ -79,7 +79,18 @@ ___
 			- pouze na sev. polokouli
 		- bycha
 	- kostnatí
-- kaprovití - kapr- jeden pár vousů
 - šprot
 - maloostní - karas, cejn,sunka, linin , plotice, jelec
+	- kaprovití - kapr- jeden pár vousů
 - požerákové - konjužka
+- ostnoploutví - makrela, okoun, candát, tuňák, kanic
+- lososovité - losos, pstruh
+	- tuková ploutvička
+- sumci
+	- hmatové vousy (několik párů)
+	- holé tělo (bez šupin)
+	- prsní ploutev vystužena paprskem
+- štiky
+	- živé torpédo
+# Amphibia
+- obouživelníci
