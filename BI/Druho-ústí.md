@@ -79,3 +79,7 @@ ___
 			- pouze na sev. polokouli
 		- bycha
 	- kostnatí
+- kaprovití - kapr- jeden pár vousů
+- šprot
+- maloostní - karas, cejn,sunka, linin , plotice, jelec
+- požerákové - konjužka
