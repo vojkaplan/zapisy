@@ -1,14 +1,32 @@
-- sokrates
+- Sokrates
+	- možná spíše literární postava
 	- vše co o něm víme víme kvůli Platonovi
-
-
-
-
+	- vážil si skromného života
+	- chtěl vládu expertům (vládnout mají ti co tomu rozumí)
+	- politik má sloužit a potřebuje znát dobro a spravedlnost
+	- neznalost je zlo
+	- smrt:
+		- odsouzen k smrti demokratickou radou města, protože prý kazil svojí filozofií mládež -> vypil číši bolehlavu
+		- "vím že nic nevím"
 - Platon 
+	- byl ovlivněn jeho učitelem Sokratem 
 	- knihy:
 		- ústava
+			- Platonova jeskyně
 			- hlavním námětem je svoboda jedince a státu
 			- zakládá myšlenku utopie ("ideální lidská společnost")
 			- kategorizuje vládu do 4 kategorií a ke každé z nich přiřazuje princip
-				- aristokracie(timokracie) -> oligarchie -> demokracie -> tyranie
-	- jeho názory byli odmítány aristotelem
+				- timokracie -> oligarchie  -> demokracie -> tyranie
+				- timokracie = ideální monarcha
+				- oligarchie = zkorumpovaní šlechtici, kteří jdou po penězích; vzniká tenká vrstva bohatých, zbytek bez-majetných -> povstání
+				- demokracie = bez-majetí se chopí vlády -> všichni jsou si rovni, všichni svobodní
+					- lidé upřednostňují okamžité uspokojení -> mravní degradace, stávají se zvířaty
+				- tyranie = rozpad společnosti
+			- rozdělení lidu založeno na specializaci a ctnosti: 
+				- vládci (filozofové):
+					- nejvýší vzdělán, hl. úkol je řídit stát na základě rozumu a moudrosti
+				- strážci
+					- brání stát a zachovávají pořádek
+				- řemeslníci a zemědělci
+					- manuální práce, obchodování, jsou základ ekonomiky -> nabízejí práce a služby
+	- jeho názory byli odmítány Aristotelem

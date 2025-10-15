@@ -3,11 +3,18 @@
 - znovu inspirace antikou
 - začátky ateismu
 - osvícenci - dbali na učení, cca scientist
-- pyrene corneile
-	- "Vdova"
-	- "Komická iluze"
-	- "Cid"
-	- "Titus a Berenica"
-	- "Britannicus"
-	- "Berencai"
-	- "faidra"
+- vysoká literatura
+	- pyrene corneile
+		- "Vdova"
+		- "Komická iluze"
+		- "Cid"
+		- "Titus a Berenica"
+		- "Britannicus"
+		- "Berencai"
+		- "faidra" - velmi ovlivněn jansenismen
+- nízká
+	- muliére jean baptiste poqulin
+		- otevřel tzv. "slavné divadlo" -> o rok později zavřeno kvůli dluhům
+		- vzán do královských služeb
+		- postavy mívají dominantní postavový rys na kterém je daná komedie založena
+		- hry : "sněžské kuriózky", "škola žen", "tartuffe", "misantrop", "lakomec"
