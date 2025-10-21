@@ -94,3 +94,21 @@ ___
 	- živé torpédo
 # Amphibia
 - obouživelníci
+- všichni potřebují vodu (minimálně na rozmnožování)
+- 3 fáze života červovec -> mlok -> žába
+- až 30% kyslíku přijato kůži
+- chromatofory = zbarvení
+	- rosničky umí aktivně měnit
+- kostra
+	- má hrudní kost
+	- neuzavřená kostnice
+	- nemajjí patro
+	- místo pánve tzv. urostyl
+- smysly:
+	- zrak
+	- poprvé vnitřní ucho
+	- jacobsonův orgán (stejně jak "čichají" plazi)
+	- proudový orgán
+- aktivní lovci
+- kromně ropuch drobné nerozlišené zuby (ne v jamce)
+- kloaka 

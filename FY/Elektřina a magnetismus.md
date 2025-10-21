@@ -44,3 +44,12 @@
 - kondenzátor
 	- přibližně baterka (sprinter baterka)
 - W = $\frac{1}{2}cu^2$
+### Vznik el. proudu
+#### el. proud jako děj a veličina
+- elektrický proud je děj vyjadřující tok částic
+- el. proud = uspořádaný pohyb volných el. nabitých částic
+- dohodou teče od kladného k zápornému; reálně teče ok záporného ke kladnému
+	- my budeme používat dohodnutý proud
+- proud vychází v ampérách / C * t^-1
+- $I=\frac{\Delta{Q}}{\Delta{t}}$
+- DU: str. 43 /2,3

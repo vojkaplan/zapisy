@@ -5,16 +5,18 @@
 - osvícenci - dbali na učení, cca scientist
 - vysoká literatura
 	- pyrene corneile
-		- "Vdova"
-		- "Komická iluze"
-		- "Cid"
-		- "Titus a Berenica"
-		- "Britannicus"
-		- "Berencai"
-		- "faidra" - velmi ovlivněn jansenismen
+		- "Vdova", "Komická iluze", "Cid", "Titus a Berenica", "Britannicus", "Berencai", "faidra" - velmi ovlivněn jansenismen
 - nízká
 	- muliére jean baptiste poqulin
 		- otevřel tzv. "slavné divadlo" -> o rok později zavřeno kvůli dluhům
 		- vzán do královských služeb
 		- postavy mívají dominantní postavový rys na kterém je daná komedie založena
 		- hry : "sněžské kuriózky", "škola žen", "tartuffe", "misantrop", "lakomec"
+	- charles de montes quireu 1689 
+		- vystudovaný právník
+		- Knihy: "Perské Listy", "Pravdivá historie"
+	- Voltaire
+		- filozof, syn francouského písaře, 
+		- kritika k náboženství
+		- psal filozofické listy
+		- Díla: "Úvaha o metafyzice", "prvky Newtnovy fyziky", "Století ludvíka XIV.", "Esej o mravech a duchu národů", "Filozofický slovník", "Úvaha o nesnášelivosti", "Panna"

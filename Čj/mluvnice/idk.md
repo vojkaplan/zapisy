@@ -98,3 +98,9 @@
 	- polovětná konstrukce = skladební utvar kde infinitiv, přechodník nebo příčestník plní funkci věty
 - základní skladební členy
 	- větné členy = výrazy které ve větě nebo větném ekvivalentu vstupují do vztahů s jinými výrazy
+	- odkazovací zájmena
+	- citoslovce se moc neurčují
+	- tvojří skladební dvojci / skladební skupinu
+	- skladební dvojice - dvě slova musí mít mezi sebou formální skladební vztah
+		- nadřazený výraz = řídící větný člen
+	- skladební skupinu tvoří 2 a více větných členů které jsou si formálně rovnocené -> mluvnicky na sebe nezávislé -> souřadně spojené

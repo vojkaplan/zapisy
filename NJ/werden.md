@@ -1,0 +1,12 @@
+- věk:
+	- ich bin 18 - je mi 18
+	- ich werde 18 - bude mi 18
+	- meine tante ist alt - moje teta je stará
+	- meine tonte wird alt - moje teta stárne
+- povolání:
+	- mein brüder ist artz - můj bratr je doktorem
+	- mein brüder wird artz - můj bratr se stane doktorem
+- počasí
+	- es ist kalt - je zima
+	- es wird kalt - ochladí se
+	- 
