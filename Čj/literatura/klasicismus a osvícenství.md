@@ -19,4 +19,26 @@
 		- filozof, syn francouského písaře, 
 		- kritika k náboženství
 		- psal filozofické listy
-		- Díla: "Úvaha o metafyzice", "prvky Newtnovy fyziky", "Století ludvíka XIV.", "Esej o mravech a duchu národů", "Filozofický slovník", "Úvaha o nesnášelivosti", "Panna"
+		- Díla: "Úvaha o metafyzice", "prvky Newtnovy fyziky", "Století ludvíka XIV.", "Esej o mravech a duchu národů", "Filozofický slovník", "Úvaha o nesnášelivosti", "Panna", "Candid neboli Optimismus"
+	- xxxx - filozof, dramatik,teoretik
+		- "List o slepých pro ty, kteří vidí", "Rameauúv synovec", "Jebtiška", "Jakub Fatalista"
+- tzv. Měšťanské drama (plačtivé drama)
+	- zobrazuje každodenní ctnosti
+	- Pierre Boau Marchais
+	- comedia dell' arte
+		- exterponované divadlo (improvizace herců)
+		- ustálené postavy
+	- Carlo Goldoni
+		- kompletní scénáře
+		- díla: 
+			- hrubiání 1760 - bez masek, komedie prostředí
+			- sluha dvou pánů, Zpívající benátky, "mirandoina"
+	- daniel defoe
+		- díla: Robinson Crusoe, šťastné a nešťastné příběhy Moll Flarsové
+	- johnathan swift
+		- díla: gulliverovy cesty (distopie)
+	- Alexandr nikolajevič radivčev
+		- Cesta do Moskvy
+	- Dostojevsky
+	- Ivan Andrejovič Krylov
+	- Jahn de la fontain 

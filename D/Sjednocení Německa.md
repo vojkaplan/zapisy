@@ -1,0 +1,20 @@
+- 1859 - Rakousko vs Itálie - Rakousko prohrálo
+	- Nemci si spojí Německo sami, bez Rakouska
+- největším státem bylo Prusko (silně konzervativní stát)
+- Otto von Bismarck - železný kancléř
+	- pruský kancléř 
+	- původně vojenský důstojník
+- Junkeři - konzervativní šlechta, spolupracoval s nimi Bismarck 
+- 1864 - Prusko + Rakousko vs Dánsko
+	- Šlesvicko a Haltštínsko - hodně němců
+	- rusové + rakušáci vyhráli
+- 1866 - Prusko-Rakouská válka
+	- bitva u seveve (obec u Hradce králové)
+	- prusko zvítězilo -> německý spolek zanikl -> vzniká severoněmecký spolek, hl. stát je prusko
+	- francouzký vládce napoleon III. napomáhá jižním katolickým německým státům
+- prusko francouská válka - bismarck vyprovokoval francii -> francie vypadá jako agresor
+	- francie: skončila monarchie -> 3. republika
+	- němci: sjednotili se, pruský císař je Vilém I. (pruský král) a kancléř Otto von Bismarck (pruský kancléř) ; spolkový stát (vnitřně rozdělený)
+### politika a hospodářství německa
+- německu se daří (válečné reparace od francie)
+- podhůří: těžké strojírenství hutnictví

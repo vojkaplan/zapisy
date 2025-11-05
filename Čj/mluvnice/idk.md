@@ -100,7 +100,20 @@
 	- větné členy = výrazy které ve větě nebo větném ekvivalentu vstupují do vztahů s jinými výrazy
 	- odkazovací zájmena
 	- citoslovce se moc neurčují
-	- tvojří skladební dvojci / skladební skupinu
+	- tvoří skladební dvojci / skladební skupinu
 	- skladební dvojice - dvě slova musí mít mezi sebou formální skladební vztah
 		- nadřazený výraz = řídící větný člen
 	- skladební skupinu tvoří 2 a více větných členů které jsou si formálně rovnocené -> mluvnicky na sebe nezávislé -> souřadně spojené
+- vztahy významové
+	- predikace (přisuzování) %%Object.addAction() // maybe inplements%%
+		- přisuzuje se určitý děj / výsledek děje / činnost / stav / vlastnost původci děje / výrazu v podmětu / skutečnosti ,která se nedá podmětem vyjádřit
+		- jedno jestli trpný rod / nevyjádřený podmět
+	- determinace (určování) %%Object.addAtribute()%%
+		- nastává u všech ostatních dvojicích (předmět, příslovečné určení, přívlastky, doplněk)
+		- mezi větným členem jehož význam je blíže popsán přiblížen či přesněji určen a větným členem který toto určení realizuje
+	- koordinace (přiřazování)
+		- větné členy, které mluvčí klade vedle sebe jako rovnocenné
+	- apozice (přistavování)
+		- větné členy, které pojmenovávají různými způsoby tutéž představu
+- vztahy skladební (formální)
+	- 

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5e245bd1e5a0e5a3","type":"text","text":"plus","x":-420,"y":-12,"width":90,"height":60},
+		{"id":"fdf342e6aece866d","type":"text","text":"amper metr","x":-240,"y":-12,"width":140,"height":60},
+		{"id":"d4a509a8470fe202","type":"text","text":"spotřebič","x":-160,"y":340,"width":125,"height":60},
+		{"id":"8459e11d431b0f4a","type":"text","text":"spotřebič","x":-35,"y":-12,"width":120,"height":60},
+		{"id":"1dbf7db6a916a271","type":"text","text":"minus","x":140,"y":-12,"width":100,"height":60},
+		{"id":"e71ed588a3a8fe21","type":"text","text":"minus","x":35,"y":263,"width":105,"height":60},
+		{"id":"b6690963b8bc94ee","type":"text","text":"volt metr","x":-160,"y":180,"width":125,"height":60},
+		{"id":"b046fc6b5582b626","type":"text","text":"plus","x":-325,"y":263,"width":85,"height":60}
+	],
+	"edges":[
+		{"id":"1ecb83cc01c4bf3f","fromNode":"5e245bd1e5a0e5a3","fromSide":"right","toNode":"fdf342e6aece866d","toSide":"left"},
+		{"id":"90a20e45fc17b81a","fromNode":"fdf342e6aece866d","fromSide":"right","toNode":"8459e11d431b0f4a","toSide":"left"},
+		{"id":"f23d3febb72c8a64","fromNode":"8459e11d431b0f4a","fromSide":"right","toNode":"1dbf7db6a916a271","toSide":"left"},
+		{"id":"4e7886b374b969a3","fromNode":"b046fc6b5582b626","fromSide":"right","toNode":"b6690963b8bc94ee","toSide":"left"},
+		{"id":"c829a7a5c1a8a182","fromNode":"b6690963b8bc94ee","fromSide":"right","toNode":"e71ed588a3a8fe21","toSide":"left"},
+		{"id":"bef13440deed141c","fromNode":"d4a509a8470fe202","fromSide":"right","toNode":"e71ed588a3a8fe21","toSide":"left"},
+		{"id":"6fe1086606d318c5","fromNode":"b046fc6b5582b626","fromSide":"right","toNode":"d4a509a8470fe202","toSide":"left"}
+	]
+}

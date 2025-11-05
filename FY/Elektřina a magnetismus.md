@@ -51,4 +51,16 @@
 - dohodou teče od kladného k zápornému; reálně teče ok záporného ke kladnému
 	- my budeme používat dohodnutý proud
 - proud vychází v ampérách / C * t^-1
-- $I=\frac{\Delta{Q}}{\Delta{t}}$ -> $\lim{\frac{dQ}{dt}}$ 
+- $I=\frac{\Delta{Q}}{\Delta{t}}$ -> $\frac{dQ}{dt}$ 
+#### zdroj el. napětí
+- baterie -> vnitřní ($u_e$)/ vnější napětí (u)-> vydávají své částice
+	- částice se pohybují ve směru el. statických sil
+- W = U * Q
+- sériové / paralelní zapojení spotřebiče
+- ![[zapojení.canvas|zapojení]]
+#### stejnosměrný proud
+- galvanické články
+- solární články
+### elektrický proud v kovech
+- ohmův zákon pro část obvodu 
+	- $I=U*R$ 
