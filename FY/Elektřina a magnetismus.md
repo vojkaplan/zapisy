@@ -63,4 +63,15 @@
 - solární články
 ### elektrický proud v kovech
 - ohmův zákon pro část obvodu 
-	- $I=U*R$ 
+	- $U=I*R$ 
+- r - odpor- $\Omega$ ohm 
+- g - konduktivita - S siems
+	- $r=\frac{1}{g}$ 
+	- $r=\rho\frac{l}{s}$
+		- $\rho$ = měrný elektrický odpor
+		- s = průřez vodiče
+		- l = délka vodiče
+- závislost elektrického odporu na teplotě kovového vodiče
+	- $R =R_0(1+\alpha \Delta t)$  
+	- $\rho =\rho_0(1+\alpha \Delta t)$
+	- $\alpha$ = teplotní součinitel el. odporu

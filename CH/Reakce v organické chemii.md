@@ -75,3 +75,19 @@ ___
 	- radikálová nitrace $CH_4 + HNO_3$ -> $CH_3NO_2 + H_2O$ 
 	- Krakování = rozseknutí dlouhých řetězců
 		- vznikají dva kratší (tam kde se sekne je dvojitá vazba)
+### Alkeny
+- dvojná vazba
+- ve tvaru trojúhelníků
+- schopny izomerie
+	- dvojnái vazba nejde otáčet
+	- obecný vzorec $C_NC_{2N}$ a $C_NH_{2N-2}$ 
+- v přírodě v např. mrkvi
+- v názvosloví pozice + prípona -en za název nejdelšího řeťezce
+	- dvojné vazby menší číslo má přednost před jednoduchými
+	- např 4-metylpent-2-en
+		- ethenyl, propyl, prop-2-en-1-yl (alynyl)
+%%2 - metyl-prop-en
+1-metylcyklobut-en
+2-metyl-pent -1,3-dien
+3- metyl cyklo pent en%
+

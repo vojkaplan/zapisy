@@ -106,7 +106,7 @@
 	- skladební skupinu tvoří 2 a více větných členů které jsou si formálně rovnocené -> mluvnicky na sebe nezávislé -> souřadně spojené
 - vztahy významové
 	- predikace (přisuzování) %%Object.addAction() // maybe inplements%%
-		- přisuzuje se určitý děj / výsledek děje / činnost / stav / vlastnost původci děje / výrazu v podmětu / skutečnosti ,která se nedá podmětem vyjádřit
+		- přisuzuje se určitý děj / výsledek děje / činnost / stav / vlastnost původci děje / výrazu v podmětu / skutečnosti, která se nedá podmětem vyjádřit
 		- jedno jestli trpný rod / nevyjádřený podmět
 	- determinace (určování) %%Object.addAtribute()%%
 		- nastává u všech ostatních dvojicích (předmět, příslovečné určení, přívlastky, doplněk)

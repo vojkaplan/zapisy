@@ -7,7 +7,7 @@
 		{"id":"1dbf7db6a916a271","type":"text","text":"minus","x":140,"y":-12,"width":100,"height":60},
 		{"id":"e71ed588a3a8fe21","type":"text","text":"minus","x":35,"y":263,"width":105,"height":60},
 		{"id":"b6690963b8bc94ee","type":"text","text":"volt metr","x":-160,"y":180,"width":125,"height":60},
-		{"id":"b046fc6b5582b626","type":"text","text":"plus","x":-325,"y":263,"width":85,"height":60}
+		{"id":"b046fc6b5582b626","type":"text","text":"plus","x":-320,"y":263,"width":85,"height":60}
 	],
 	"edges":[
 		{"id":"1ecb83cc01c4bf3f","fromNode":"5e245bd1e5a0e5a3","fromSide":"right","toNode":"fdf342e6aece866d","toSide":"left"},

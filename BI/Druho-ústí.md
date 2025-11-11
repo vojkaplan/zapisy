@@ -96,19 +96,45 @@ ___
 - obouživelníci
 - všichni potřebují vodu (minimálně na rozmnožování)
 - 3 fáze života červovec -> mlok -> žába
-- až 30% kyslíku přijato kůži
-- chromatofory = zbarvení
-	- rosničky umí aktivně měnit
 - kostra
-	- má hrudní kost
+	- nemá hrudní kost
 	- neuzavřená kostnice
-	- nemajjí patro
+	- nemají patro
 	- místo pánve tzv. urostyl
 - smysly:
 	- zrak
 	- poprvé vnitřní ucho
 	- jacobsonův orgán (stejně jak "čichají" plazi)
 	- proudový orgán
-- aktivní lovci
-- kromně ropuch drobné nerozlišené zuby (ne v jamce)
-- kloaka 
+- gamestyle:
+	- aktivní lovci
+	- alespoň část života ve vodě
+	- vajíčka kladou do vody
+- traits:
+	- kromně ropuch drobné nerozlišené zuby (ne v jamce)
+	- kloaka - 2 soustavy (vylučovací a trávící soustava)
+	- plňe kostnatá kostra
+	- velká játra (výroba žluči -> rozpouštění tuků)
+	- primitivní plíce
+	- srdce je 2 síně + 1 komory
+	- až 30% kyslíku přijato kůži
+	- chromatofory = zbarvení
+		- rosničky umí aktivně měnit
+- druhy:
+	- červor - žije v tropech, nemá končetiny
+	- mloci - první rostou přední končetiny, většina života na souší
+		- druhy: axolotl
+	- čolek - podobný mlokovi, většina života ve vodě, mají hřbetní hřeben 
+	- žáby - mají hrudní kost, uzpůsobeni skákání, rezonanční vak - kvákání
+		- druhy: kuňka - kontrastní břicho; blatnice - hrabe; ropucha - oválné oko; rosnička - má přísavky na nohách; skokan 1.zelení-ve vodě 2.hnědí -na souši
+# Reptilia
+- smysly
+	- 
+- traits
+	- vícevrstevná nepropustná kůže
+	- nemá kožní žlázy (s výjimkou chameleona)
+	- první vejce s pořádným obalem (skládá se z 3 částí) - důležité pro život na souši
+	- vylučují kys. močovou - kašovitá
+- gamestyle
+	- svlékání 
+- druhy
