@@ -129,12 +129,17 @@ ___
 		- druhy: kuňka - kontrastní břicho; blatnice - hrabe; ropucha - oválné oko; rosnička - má přísavky na nohách; skokan 1.zelení-ve vodě 2.hnědí -na souši
 # Reptilia
 - smysly
-	- 
+	- Jacobsův orgán (hadí jazyk sssss)
+	- zrak (3 víčka)
 - traits
 	- vícevrstevná nepropustná kůže
 	- nemá kožní žlázy (s výjimkou chameleona)
 	- první vejce s pořádným obalem (skládá se z 3 částí) - důležité pro život na souši
 	- vylučují kys. močovou - kašovitá
+	- kostra: mají hrudní koš, 1-2. křční obratel vypadají jinak, mají druhotné patro a uzavírající se očnice
+	- plíce ve všech stádiích života
 - gamestyle
-	- svlékání 
+	- svlékání (někteří celí, někteří po částech)
+	- proměnlivá teplota těla
+	- mláďata soběstačná
 - druhy

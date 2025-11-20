@@ -75,3 +75,4 @@
 	- $R =R_0(1+\alpha \Delta t)$  
 	- $\rho =\rho_0(1+\alpha \Delta t)$
 	- $\alpha$ = teplotní součinitel el. odporu
+- supravodivost je jev kvantové mechaniky při němž materiál ochlazený pod svou kritickou teplotou vede elektrický proud bez odporu takže se žádná energie neztrácí přeměnou na joulovo teplo

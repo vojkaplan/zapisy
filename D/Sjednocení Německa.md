@@ -17,4 +17,13 @@
 	- němci: sjednotili se, pruský císař je Vilém I. (pruský král) a kancléř Otto von Bismarck (pruský kancléř) ; spolkový stát (vnitřně rozdělený)
 ### politika a hospodářství německa
 - německu se daří (válečné reparace od francie)
-- podhůří: těžké strojírenství hutnictví
+- podrůří: těžké strojírenství hutnictví
+- aktivní příprava na válku, vzrůstá počet dělníku
+- Kulturkampf - série zákonů proti katolické církvi
+	- např.: zrušení církevních sňatků, kněží nesměli vstupovat do politiky, zákaz většiny mnichovských řádů
+	- na konci 80. let je většina z nich zrušena
+- zrušena sociální demokracie
+	- stát převzal zodpovědnost za dělníky (pojištění, nemocenky, důchody)
+- neměcká kolonializace - pouze kousek Afriky a asijské ostrovy
+- císař Vilém II. v roce 1890 donutil Bismarcka odstoupit z postu kancléře
+- velké investice do armády, napjaté vztahy s francií a anglií
