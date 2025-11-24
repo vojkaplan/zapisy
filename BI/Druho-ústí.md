@@ -142,4 +142,12 @@ ___
 	- svlékání (někteří celí, někteří po částech)
 	- proměnlivá teplota těla
 	- mláďata soběstačná
-- druhy
+- druhy:
+	- želvy - karapax -krunýř, jsou k němu přirostlé obratre 
+		- některé mohou dýchat sliznicí v ústech/konečníku
+		- kajmanka supí, želva vodní, želva nádherná, želva žlutohnědá, želva stepní, karety, želva obrovská, želva sloní
+	- krokodíli - alveolárníí chrup - zuby v jamkách
+		- krokodýl vole, hrabe díru na vejce
+		- kajmani, aligátoři
+- šupinatí - šupiny jako tašky, chybí jim vrchní patro, kožovitá skořápka
+	- hadi - stará skupina, roztažitelná čelist

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"b5a1843211a97a87","x":-440,"y":-275,"width":80,"height":60,"type":"text","text":"R1\n"},
+		{"id":"d22b178ede4d880b","x":-320,"y":-275,"width":80,"height":60,"type":"text","text":"R2"},
+		{"id":"52e2f49ed857daf8","x":-200,"y":-275,"width":80,"height":60,"type":"text","text":"R3"},
+		{"id":"9c305be5f7bd8c47","type":"text","text":"R2","x":-320,"y":10,"width":80,"height":60},
+		{"id":"5a9198419b70b81d","type":"text","text":"R1\n","x":-320,"y":-80,"width":80,"height":60},
+		{"id":"eb67bf34a456b179","type":"text","text":"R3","x":-320,"y":100,"width":80,"height":60},
+		{"id":"064523450ed0d2ee","x":-405,"y":-440,"width":250,"height":60,"type":"text","text":"baterie"},
+		{"id":"a347ef7f8558b0bb","x":-405,"y":220,"width":250,"height":60,"type":"text","text":"baterie"}
+	],
+	"edges":[
+		{"id":"187d68034da67c98","fromNode":"b5a1843211a97a87","fromSide":"right","toNode":"d22b178ede4d880b","toSide":"left"},
+		{"id":"55f39369426eef5c","fromNode":"d22b178ede4d880b","fromSide":"right","toNode":"52e2f49ed857daf8","toSide":"left"},
+		{"id":"d3b0240ccb21b6ce","fromNode":"064523450ed0d2ee","fromSide":"left","toNode":"b5a1843211a97a87","toSide":"left"},
+		{"id":"5bfc3c59219a6539","fromNode":"52e2f49ed857daf8","fromSide":"right","toNode":"064523450ed0d2ee","toSide":"right"},
+		{"id":"9321c7d0ef164e7f","fromNode":"a347ef7f8558b0bb","fromSide":"left","toNode":"5a9198419b70b81d","toSide":"left"},
+		{"id":"557dcf7743610dc2","fromNode":"a347ef7f8558b0bb","fromSide":"left","toNode":"9c305be5f7bd8c47","toSide":"left"},
+		{"id":"f619e0c8ceebf373","fromNode":"a347ef7f8558b0bb","fromSide":"left","toNode":"eb67bf34a456b179","toSide":"left"},
+		{"id":"0abd23725802c24b","fromNode":"eb67bf34a456b179","fromSide":"right","toNode":"a347ef7f8558b0bb","toSide":"right"},
+		{"id":"9feb866683609e4e","fromNode":"9c305be5f7bd8c47","fromSide":"right","toNode":"a347ef7f8558b0bb","toSide":"right"},
+		{"id":"fa1fad08d8ec99b6","fromNode":"5a9198419b70b81d","fromSide":"right","toNode":"a347ef7f8558b0bb","toSide":"right"}
+	]
+}

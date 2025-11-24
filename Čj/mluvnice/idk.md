@@ -122,3 +122,4 @@
 		- shoda (kongruence) - člen přebírá informace (mluvnické kategorie) z členu jiného - přísudek s podmětem, přívlastek
 		- řízenost (rekce) - člen předepisuje tvar druhému členu - předmět, přívlastek (v uřčitém stavu)
 		- přimykání (adjunkce) - značí se nulou - velmi slabá mluvnická závislost,tvar vyplývá pouze z významového vztahu mezi ním a jiným členem - všechny přís. určení, přívlastek neshodný s předložkovým tvarem. neshodný doplněk
+- 
