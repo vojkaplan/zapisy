@@ -122,10 +122,4 @@
 		- shoda (kongruence) - člen přebírá informace (mluvnické kategorie) z členu jiného - přísudek s podmětem, přívlastek
 		- řízenost (rekce) - člen předepisuje tvar druhému členu - předmět, přívlastek (v uřčitém stavu)
 		- přimykání (adjunkce) - značí se nulou - velmi slabá mluvnická závislost,tvar vyplývá pouze z významového vztahu mezi ním a jiným členem - všechny přís. určení, přívlastek neshodný s předložkovým tvarem. neshodný doplněk
-- pořádek ve větě dělají 3 faktory
-	1. obsahově významovým
-		- ve větě obvykle vycházíme od toho co je známé a postupujeme k tomu co věta přináší nového -> člení se na východisko (aneb základ/téma) a jádro (aneb réma); o tom co je východiskem a  jádrem rozhoduje aktuální stav východiska a jeho kontext
-			- objektivní pořádek, typický pro každodenní mluvu 
-	2. gramatickým 
-		- 
-	3. zvukovým
+- 

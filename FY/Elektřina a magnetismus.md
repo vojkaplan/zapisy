@@ -77,7 +77,10 @@
 	- $\alpha$ = teplotní součinitel el. odporu
 - supravodivost je jev kvantové mechaniky při němž materiál ochlazený pod svou kritickou teplotou vede elektrický proud bez odporu takže se žádná energie neztrácí přeměnou na joulovo teplo
 #### spojování rezistorů
-- buď sériově (za sebou) - $U=U_1 + U_2 + ... +U_n$ , $R=R_1 + R_2 + ... +R_n$
+- buď sériově (za sebou) - I = konst. , $U=U_1 + U_2 + ... +U_n$ , $R=R_1 + R_2 + ... +R_n$
 - paralelně (řady) - U = konst. $I = I_1 + I_2 +...+ I_n$
 - $$\frac{1}{R} =\frac{1}{R_1} + \frac{1}{R_2} + ... + \frac{1}{R_n}$$
 - [[zapojení rezistorů.canvas|zapojení rezistorů]]
+- $W = Q*U$ = $W = I*t*U$
+- P (výkon) = $W*t $= $U*I$
+- př. str. 61/5,6
