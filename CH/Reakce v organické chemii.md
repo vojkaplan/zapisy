@@ -86,8 +86,8 @@ ___
 	- dvojné vazby menší číslo má přednost před jednoduchými
 	- např 4-metylpent-2-en
 		- ethenyl, propyl, prop-2-en-1-yl (alynyl)
-%%2 - metyl-prop-en
-1-metylcyklobut-en
-2-metyl-pent -1,3-dien
-3- metyl cyklo pent en%
-
+- reagují dobře -> zruší se dvojná vazba -> reakce  a jednoduchá vazba
+- hybridizace - spojení elektronových konfigurací - jak vypadá molekula, počítájí se jenom $\sigma$ vazby
+	- např. methan -> $sp^3$ -> tetrahedr , ethen -> $sp^2$ -> trojúhelník, $H_2C_2$ -> $sp$ -> přímka
+- isomery - stejný sumární odlišný strukturovaný
+	- 

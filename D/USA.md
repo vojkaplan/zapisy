@@ -1,0 +1,13 @@
+- abolicionisté - lidé proti otroctví
+- demokraté (opora na jihu, podpora otroctví) vs republikáni (sever)
+- 1860 - Abraham Lincoln byl zvolen presidentem
+	- jižní státy se odtrhly od unie a vytvořili si vlastní stát -> konfederace (hl. město Richmond ve Virginii)
+- konflikt "severu proti jihu" (1861-1865)
+	- vyprovokoval ji jih
+	- vojáci unie měli modré uniformy, konfederace šedé
+	- generál Scherman - unie
+	- sever má výhodu průmyslu -> víc uniforem děl atd.
+	- 1863 - lincoln zrušil otroctví na území unie
+		- homestead act - zákon o bezplatném přídělu půdy kolonistů na západě
+			- lincoln získal podporu lidí -> lidé vztupovali do války
+	- vyhrál sever, vě pak zase unie

@@ -82,5 +82,12 @@
 - $$\frac{1}{R} =\frac{1}{R_1} + \frac{1}{R_2} + ... + \frac{1}{R_n}$$
 - [[zapojení rezistorů.canvas|zapojení rezistorů]]
 - $W = Q*U$ = $W = I*t*U$
-- P (výkon) = $W*t $= $U*I$
+- P (výkon) = $W/t$= $U*I$
 - př. str. 61/5,6
+
+
+220V 60W
+
+
+560 * t = 334400
+t ~ 10min
