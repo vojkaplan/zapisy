@@ -138,3 +138,12 @@
 		- hl. příklony (krátké jednoslabičné slova nacházejí se za prvním slovem s přízvukem): být ve většině tvarů, zájmena zvratná, spojky
 		- jsou přesně dané
 		- 1. být, 2. osobní zvratné, 3. jiná zájmena, 4. spojky
+- větné členy
+	- podmět (subjekt) - predikace, většinou kongruencí
+		- může vyjádřit původce / činitele děje; může také vyjadřovat nositele stavu
+		- nejčastěji podstatné jméno v 1. pádu
+		- může být vyjádřen partitivní genitivem "ubývá dne", nebo předložkovým pádem "u Nováků mají návštěvu"
+		- někdy je vyjádřen přídavným jménem "raněný" %%null s jedním atributem%%
+		- zájmeno -> nevyjádřený podmět "implicitně vyjádřený"
+		- všeobecný podmět
+		- podmět neurčitý - nedá se vyjádřit jménem, často zájmenem uřčován, něco neživého

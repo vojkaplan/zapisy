@@ -10,4 +10,15 @@
 	- 1863 - lincoln zrušil otroctví na území unie
 		- homestead act - zákon o bezplatném přídělu půdy kolonistů na západě
 			- lincoln získal podporu lidí -> lidé vztupovali do války
-	- vyhrál sever, vě pak zase unie
+	- vyhrál sever, vše pak zase unie
+	- lincoln umírá na zranění po atentátu
+- přijata opatření omezující moc jižanských plantážníků
+- otroctví zrušeno pro celé USA dodatkem 13
+- KKK - rasistická organizace v jihu - 
+## dělnictvo
+- vznik továren - dělba na buržoazie(vlastníci) a proletariátu(pracovníci)
+- průměrná pracovní doba byla 10 h, žádné pojištění, velmi slabá ochrana, ženy a děti také pracovali za menší plat, vyšší nemocnost a úmrtnost 
+- v okolí továren vznikali tzv. dělnické kolonie
+- Karl Marks a Fridrich Angles - snažili se zlepšit život dělnictva, nabádali k revoluci proletariátu a kolektivního vlastnictví
+	- manifest komunismu
+- Internacionála

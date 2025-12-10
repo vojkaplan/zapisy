@@ -7,4 +7,32 @@ viz maty
 - Antoin Francoise Prévost
 	- "manon les co"
 - Joan Jackue Rosseoeu
-	- "rozprava o nerovnosti"
+	- "rozprava o nerovnosti", "julie aneb Nová Heloisa", "Emil", "vyznání"
+## národní obrození
+- rakousko -> revoluce
+- ppřirozená germanizace, úřední jazyk ale čeština
+- na popud od marie teresie (zaostávali oproti ostatním)
+	- základní "triviální" vzdělání začalo být povinné
++	- toleranční patern -> monarchie toleruje protestantské náboženství
+	- patent o zrušení o nevolnictví, pořád platí robotní povinnost
+- josef 2
+	- rušeny kláštery ,které nepomáhají (špitály, školy)
+- konsolidační (obraná) tvorba - generace dobrovského
+- ofensivní (útočná) tvorba - generace jungmanova
+- Dobravský
+	- založil slavistiku
+	- zrekonstrukoval češtinu 
+	- německo český slovník
+- jungman
+	- ověřoval
+	- kronika české
+- kramerius
+	- novinář
+- hrálo se divadlo
+- shiler
+- Prokop šedivý
+	- "masné krámy", "prašné skládky", "almanach"
+- Antonín Jaroslav Spuchmayer - první novočeská škola básnická
+	- "nové básně", "tabuleskní balada", "směšnohrdinský epos","válka žab a myší","oda na jana žišku z trocnova", "rýmovník"
+- Josef Jungman
+	- "česko německý slovník", "historie dějin českých", "rozmlouvání o jazyku českém", "loutkové divadlo"

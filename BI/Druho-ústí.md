@@ -151,3 +151,14 @@ ___
 		- kajmani, aligátoři
 - šupinatí - šupiny jako tašky, chybí jim vrchní patro, kožovitá skořápka
 	- hadi - stará skupina, roztažitelná čelist
+		- např.: zmije, korálovka, korálovec, taypan větší, taypan menší, mamba, chřestýš, anakonda,  hroznýš (má i druhou plícy, zakrslé ruce), krajta, krátkonožka evropská
+	- ještěrky 
+		- např.: ještěrka obecná, ještěrka zelená, ještěrka zední, slepýš, gekon, leguán, varan, agama, basilišek, chameleon
+# Humilia
+- živočišná buňka -> více buněk = tkáň -> více tkání -> orgány -> orgánové soustavy -> jedinec
+- tkáň musí mít buňky se stejným tvarem, původem a funkci
+- tkáně:
+	- Epitely,
+	- pojiva, 
+	- tkáň svalová, 
+	- tkáň nervová

@@ -86,8 +86,22 @@ ___
 	- dvojné vazby menší číslo má přednost před jednoduchými
 	- např 4-metylpent-2-en
 		- ethenyl, propyl, prop-2-en-1-yl (alynyl)
-- reagují dobře -> zruší se dvojná vazba -> reakce  a jednoduchá vazba
 - hybridizace - spojení elektronových konfigurací - jak vypadá molekula, počítájí se jenom $\sigma$ vazby
 	- např. methan -> $sp^3$ -> tetrahedr , ethen -> $sp^2$ -> trojúhelník, $H_2C_2$ -> $sp$ -> přímka
 - isomery - stejný sumární odlišný strukturovaný
 	- 
+- reagují dobře -> zruší se dvojná vazba -> reakce  a jednoduchá vazba , nejčastějsí je radikálová a elektrofilní adice -> často se přidává halogen s vodíkem, bez vodíku a voda
+	- vodík napadne dvojnou vazbu -> reaguje první -> vzniká karbo kationt
+	- Markovníkovo pravidlo. reaguje na straně kde je více vodíku (navázaných na uhlík)
+	- hydrogenace - často potřebují katalizátor	
+		- nasycené tuky = sádlo
+	- oxidace - alken + oxidační činidlo -> alkohol
+	- polymerace - 
+- příprava alkenů 
+	- krakování
+	- dehydratace alkoholu
+	- halogenace - kov ukradne halogen -> nestabilní -> alken
+- zástupci
+	- ethen - výbušný se vzduchem, hormon pro růst rostlin
+	- propen - vyrábí se z něho plast
+	- buta-1,3-dien - karcinogení plyn, vyrábí se z něho isopren -> polyisopren ->kaučuk(guma)
