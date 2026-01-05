@@ -147,3 +147,7 @@
 		- zájmeno -> nevyjádřený podmět "implicitně vyjádřený"
 		- všeobecný podmět
 		- podmět neurčitý - nedá se vyjádřit jménem, často zájmenem uřčován, něco neživého
+	- přívlastek
+		- shodný, neschodný, přisuzovací
+- vedlejší věta přívlastková
+	- uvezeny vžtažnýmy zájmeny a spojkami

@@ -170,7 +170,7 @@ ___
 ## Pojiva
 - vazivo, chrupavka, kost
 - buňky jsou vždy obklopené mezibuněčnou hmotou (podle té dále dělíme)
-- vazivo - nízko expanzní pěna
+- vazivo - nízko expanzní pěna     
 	- nepravidelná a hvězdičková buňka, 
 	- základní rosolovitá hmota, 
 	- vazivové fibrili (vlákna) - elastické a kolagenní
