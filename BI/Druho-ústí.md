@@ -155,10 +155,30 @@ ___
 	- ještěrky 
 		- např.: ještěrka obecná, ještěrka zelená, ještěrka zední, slepýš, gekon, leguán, varan, agama, basilišek, chameleon
 # Humilia
-- živočišná buňka -> více buněk = tkáň -> více tkání -> orgány -> orgánové soustavy -> jedinec
+- živočišná buňka -> více buněk = tkáň -> více tkání = orgány -> orgánové soustavy -> jedinec
 - tkáň musí mít buňky se stejným tvarem, původem a funkci
 - tkáně:
 	- Epitely,
 	- pojiva, 
 	- tkáň svalová, 
-	- tkáň nervová
+	- tkáň nervová,
+	- trofické tkáně
+## Epitely
+- všechny buňky přiléhají těsně vedle sebe (žádné mezibuněčné prostory)
+- kryjí povrch vystýlají dutiny
+- dělí se dle: 1. tvaru buněk (dlaždicové, kubické, cylindrické), 2. funkce (krycí, výstelkový, řasinkový - zachytávací, resorpční - vstřebávací), 3. podle řad/vrstev
+## Pojiva
+- vazivo, chrupavka, kost
+- buňky jsou vždy obklopené mezibuněčnou hmotou (podle té dále dělíme)
+- vazivo - nízko expanzní pěna
+	- nepravidelná a hvězdičková buňka, 
+	- základní rosolovitá hmota, 
+	- vazivové fibrili (vlákna) - elastické a kolagenní
+		- dle poměru vláken a rosolu se rozdělují
+	- mohou se zde vyskytovat: tukové buňky, pigmentové, hystiocyty (schopné fagocitovat - žraní améby),  buňky žírné (obsahují heparin)
+	- druhy vyziv: řídké (málo vláken, hodně rosolu), tukové, tuhé (hodně vláken, méně tuku)- např. šlachy, lymfoidní - síťové (záleží druh od druhu)
+- chrupavka - pružinny u kola
+	- tuhá, pevná, bílá
+	- skupina buněk v komůrce, obklopené rosolem
+	- dělíme na: sklovitá, vazivová, elastická
+- kost

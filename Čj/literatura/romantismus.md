@@ -36,3 +36,8 @@ viz maty
 	- "nové básně", "tabuleskní balada", "směšnohrdinský epos","válka žab a myší","oda na jana žišku z trocnova", "rýmovník"
 - Josef Jungman
 	- "česko německý slovník", "historie dějin českých", "rozmlouvání o jazyku českém", "loutkové divadlo"
+- Paladský
+	- austroslavista
+- Pavol Josef Šafarik
+	- "můza slovanská", "Slovanské mýty a slavnosti"
+	- chtěl zavést časomíru do češtiny
