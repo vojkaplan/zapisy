@@ -41,3 +41,9 @@ viz maty
 - Pavol Josef Šafarik
 	- "můza slovanská", "Slovanské mýty a slavnosti"
 	- chtěl zavést časomíru do češtiny
+- rukopisy zelenohorský a králohorský
+## literatura německá
+- hnutí sturm und drang - poslední třetina 18. století
+- Fridrich Maxmilian Klinger - napsal hru sturm und drang
+- teorie genialiti a congenialiti - požadavek originality 1280x1080x256
+- dosti využíváno drama
