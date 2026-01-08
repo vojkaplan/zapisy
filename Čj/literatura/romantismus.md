@@ -43,7 +43,15 @@ viz maty
 	- chtěl zavést časomíru do češtiny
 - rukopisy zelenohorský a králohorský
 ## literatura německá
-- hnutí sturm und drang - poslední třetina 18. století
+- hnutí sturm und drang - poslední třetina 18. století (bouře a vzdor)
 - Fridrich Maxmilian Klinger - napsal hru sturm und drang
 - teorie genialiti a congenialiti - požadavek originality 1280x1080x256
 - dosti využíváno drama
+- Johan Wolfgang Goethe
+	- 1749-1832 -  politik, právník, spisovatel, biolog
+	- často cestoval
+	- politika vrchol kultury
+	- přítel s Schillerem
+	- "Götz z Berlinchingenu s železnou rukou", "edmond", "Faust", "Ur-Faust", "Elkënig", "západo-východní divan", "elegie z mariánských lázní", "Viléma Meistera: léta učednická", "Viléma Meistera: léta tovaryšská/cestovní", "utrpění mladého meltra", "zpřízněni volbou"
+- Friedrich Schiller
+- Gottfried august Bürger

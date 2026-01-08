@@ -104,4 +104,4 @@ ___
 - zástupci
 	- ethen - výbušný se vzduchem, hormon pro růst rostlin
 	- propen - vyrábí se z něho plast
-	- buta-1,3-dien - karcinogení plyn, vyrábí se z něho isopren -> polyisopren ->kaučuk(guma)
+	- buta-1,3-dien - karcinogení plyn, vyrábí se z něho isopren -> polyisopren -> kaučuk(guma)
