@@ -1,3 +1,2 @@
 - pravice vs levice
 - konservatismus vs liberalismus
-- 

@@ -4,3 +4,9 @@
 	- věnoval hodně času vladařským povinostem
 	- manželka: Alžběta Bavorská (Sissi)
 		- v Ženevě zavražděna italským anarchistou
+- TGM
+	- zastal se žida (obviněný protože žid)
+		- zločin z Polné
+	- za své doby nenáviděn veřejností
+	- rukopisy zelenohorské a králohorský
+- 

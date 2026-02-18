@@ -150,4 +150,30 @@
 	- přívlastek
 		- shodný, neschodný, přisuzovací
 - vedlejší věta přívlastková
-	- uvezeny vžtažnýmy zájmeny a spojkami
+	- uvezeny vztažnými zájmeny a spojkami
+- věta předmětná
+- atribut verbální (doplněk) 
+	- shodný - např. chlapec, chodící bos, něco provedl 
+	- neshodný - rád vařím
+	- přechodník je vždy doplňkem
+	- může být vyjádřen infinitivem po slovesech s smyslového vnímáním (např. slyšel Anetu zpívat)
+- příslovečné uřčení
+	- závisí na slovese, příslovce ... nikdy nezávisí na podstatném jméně
+	- nejčastěji vyjádřeno příslovcem (také může být podstatné jm. ci zájmenem)
+	- typy: 
+		- místa - kde, odkud, kudy, kam
+		- času - kdy, odkdy, dokdy, jak dlouho, jak často
+		- způsobu - jak, jakým způsobem
+			- vyjádřen přímo / přirovnáním např. choval se k lidem přátelsky / okno žáří jako maják 
+		- míry - kolik, o kolik, jakou, měrou, do jaké míry
+		- příčiny - proč, z jakého důvodu
+		- účel - proč, za jakým účelem
+		- prostředek, nástroj - jak jakým nástrojem
+		- podmínka - za jaké podmínky
+		- zřetele - podobné způsobu - "se zřetelem k ..."
+		- vztahu -
+		- společenství a styku
+		- průvodní okolnosti
+		- původce
+		- původ a látka 
+	- 

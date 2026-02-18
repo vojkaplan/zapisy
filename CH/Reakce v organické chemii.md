@@ -105,3 +105,29 @@ ___
 	- ethen - výbušný se vzduchem, hormon pro růst rostlin
 	- propen - vyrábí se z něho plast
 	- buta-1,3-dien - karcinogení plyn, vyrábí se z něho isopren -> polyisopren -> kaučuk(guma)
+-
+
+
+#### alkyny
+- nenasycené uhlovodíky s trojnými vazbami
+- reagují podobně jako alkeny
+- $\exists$ lineární a cyklícké alkyny
+- homologické řady tvoří stejně jako alkany, alkeny
+- podle položení terciální vazby tvoří terminální a vnitřní alkeny - ty jsou stabilnější (terminální mají trojnou vazbu na konci)
+- jedna $\sigma$ a $2\pi$ - je méně reaktivní než dvojná vazba
+- hydridizace - sp - leží v přímce
+- fyzikální vlastnosti se podobají alkenům
+- alkyny mají vyšší body tání a varu než alkeny a alany se stejným počtem uhlíků
+- $C_1 - C_4$ plyny, $C_5 - C_{16}$ kapaliny, $>C_{17}$ pevné látky
+- nízká polarita -> rozpustné v nepolárních rozpouštědlech
+- hoření -> $C/CO/CO_2 + H_2O$ 
+- elektrofilní adice - reaguje dvakrát, adice do prvního stupně -> alken, do druhého stupně -> alkan
+- hydratace -> vznikají vinil-alkoholy (enoly) - nedělá 2. reakci
+- radikálová adice - produkt stejný jako elektrofilní adice, nechová se podle Markovníkova pravidla
+- hydrogenace - používá se lindlarův katalizátor (otrávený katalizátor) -> vznikají Z alkeny
+	- použitím normálního katalizátor vznikne ihned alkan
+- Oxidace - pro maturanty
+- výroba:
+	- dehydrogenace ethanu
+	- pyrolýza methanu
+- ethyn - používá se ke svařování kovu, na výrobu plastu (PVC)

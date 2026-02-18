@@ -1,4 +1,4 @@
-- mají celoum (?)
++- mají celoum (?)
 - mají pusu a řiť
 ### ostrokožci
 - paprsčitá souměrnost
@@ -176,9 +176,16 @@ ___
 	- vazivové fibrili (vlákna) - elastické a kolagenní
 		- dle poměru vláken a rosolu se rozdělují
 	- mohou se zde vyskytovat: tukové buňky, pigmentové, hystiocyty (schopné fagocitovat - žraní améby),  buňky žírné (obsahují heparin)
-	- druhy vyziv: řídké (málo vláken, hodně rosolu), tukové, tuhé (hodně vláken, méně tuku)- např. šlachy, lymfoidní - síťové (záleží druh od druhu)
+	- druhy va ziv: řídké (málo vláken, hodně rosolu), tukové, tuhé (hodně vláken, méně tuku)- např. šlachy, lymfoidní - síťové (záleží druh od druhu)
 - chrupavka - pružinny u kola
 	- tuhá, pevná, bílá
 	- skupina buněk v komůrce, obklopené rosolem
 	- dělíme na: sklovitá, vazivová, elastická
 - kost
+	- lebka
+		- fontanela - nezkostňené místo
+		- švy: lambdový, šípový, šupinatý
+## Svaly 
+- svalují
+- pracovní list
+h

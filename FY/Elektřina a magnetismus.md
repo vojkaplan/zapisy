@@ -39,7 +39,7 @@
 - atomová polarizace = deformace atomu - elektrony k + jádro k -
 - orientační polarizace
 ## Kapacita
-- $C=\frac{Q}{\phi}$
+- $C=\frac{Q}{\phi}$Valdšteinovi
 - vychází ve faradech (F) = C/V
 - kondenzátor
 	- přibližně baterka (sprinter baterka)
@@ -84,10 +84,22 @@
 - $W = Q*U$ = $W = I*t*U$
 - P (výkon) = $W/t$= $U*I$
 - př. str. 61/5,6
-
-
-220V 60W
-
-
-560 * t = 334400
-t ~ 10min
+### Dioda , transistor
+- děda
+### el. proud v kapalinách
+- elektrolyt - kapalinia která se rozkládá
+- elektrolíza - 
+- přenašeči proudu jsou ionty
+- elektrolitická disasociace - separace iontů
+- ![[Pasted image 20260122113137.png]]
+### zdroje napětí
+- elektro-chemický článek
+	- akumulátory - dají se nabít
+	- baterky - suchý/alkalický
+- E = $\Delta$ potenciálů na anodě a katodě
+### el. proud v plynech a ve vakuu
+- vzduch většinou funguje jako izolant
+- dodáním energie se plyn zionizuje
+### samostatný váboj v plynech
+## stacionární magnetické pole 
+- B = N/A.m

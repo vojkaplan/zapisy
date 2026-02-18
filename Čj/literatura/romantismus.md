@@ -13,7 +13,7 @@ viz maty
 - ppřirozená germanizace, úřední jazyk ale čeština
 - na popud od marie teresie (zaostávali oproti ostatním)
 	- základní "triviální" vzdělání začalo být povinné
-+	- toleranční patern -> monarchie toleruje protestantské náboženství
++ toleranční patern -> monarchie toleruje protestantské náboženství
 	- patent o zrušení o nevolnictví, pořád platí robotní povinnost
 - josef 2
 	- rušeny kláštery ,které nepomáhají (špitály, školy)
@@ -52,6 +52,19 @@ viz maty
 	- často cestoval
 	- politika vrchol kultury
 	- přítel s Schillerem
-	- "Götz z Berlinchingenu s železnou rukou", "edmond", "Faust", "Ur-Faust", "Elkënig", "západo-východní divan", "elegie z mariánských lázní", "Viléma Meistera: léta učednická", "Viléma Meistera: léta tovaryšská/cestovní", "utrpění mladého meltra", "zpřízněni volbou"
-- Friedrich Schiller
-- Gottfried august Bürger
+	- "Götz z Berlinchingenu s železnou rukou", "edmond", "Faust", "Ur-Faust", "Elkënig", "západo-východní divan", "elegie z mariánských lázní", "Viléma Meistera: léta učednická", "Viléma Meistera: léta tovaryšská/cestovní", "utrpění mladého veltra", "zpřízněni volbou"
+- Friedrich Schiller 1759 - 1805
+	- voják,
+	- "Loupežníci", "Kabala a láska", "Don Carlos", "Trilogie o Valdštejnovi",
+- Gottfried august Bürgerě
+---
+- romantismus se opírá o individualismus / subjektivismus (escapism)
+- nemusí souviset s realitou, často jí zachycují pomocí pojmů
+- nastupuje po něm realismus
+- exotismus, moderní historické romány a povídky, zobrazují minulost nebo budoucnost
+- často se odehrává v nebezpečných místech (lesy, hrady, katovy chalupy, atd.)
+- stavby:
+	 - volná kompozice, nejčastější princip je kontrastní (rozpor mezi snem a realitou)
+	- odporují bývalá pravidla pro psaní, ale vytvářejí nové
+	- používali se : lyrické poezie, lyricko-epické dílá, veršové povídky
+	- hrdinové: často splývají s autory, výjimeční edgy atd., "alone against the world"
