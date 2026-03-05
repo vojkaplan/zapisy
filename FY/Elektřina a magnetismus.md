@@ -103,3 +103,21 @@
 ### samostatný váboj v plynech
 ## stacionární magnetické pole 
 - B = N/A.m
+### Nestacionární magnetické pole
+- je takové pole jehož mag. indukce se během času mění
+- zrojem může být: 
+	1. pohybující se magnet/el. magnet
+	2. vodič kterým prochází různoběžný proud
+	3. pohybující se vodič s proudem
+- nestacionární el. pole <=> nestacionární pole magnetické
+- elektro-magnetická indukce - hýbáním magnetem v  cívce vzniká indukované elektromotorické napětí
+- magnetický indukční tok - $\Phi$ = $B*S*sin{(\omega * t)}$ - Wb weber
+- faradayův zákon elektro magnetické indukce
+	- $U_1 = -\frac{\Delta{\Phi}}{\Delta{t}}$ "kroužek se brání znásilnění" - paní učitelka
+### vlastní indukce
+- cívka - L = indukčnost - "i cívka má svou občanku" - paní učitelka
+	- $\Phi = L \Delta I$ 
+	- chvíli trvá něž cívkou začne procházet proud
+	- cívka se zprvu bude bránit potom povolí
+	- proud narůstá postupně na hodnotu určenou odporem cívky. 
+	- nastává ustálený stav a indukované pole zaniká

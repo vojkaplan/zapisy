@@ -68,3 +68,12 @@ viz maty
 	- odporují bývalá pravidla pro psaní, ale vytvářejí nové
 	- používali se : lyrické poezie, lyricko-epické dílá, veršové povídky
 	- hrdinové: často splývají s autory, výjimeční edgy atd., "alone against the world"
+- spencer
+	- básník - "Korzár", "Larra", "Džar", "Don Chuan"
+- Percy byss shelly
+	- studoval v Oxfordu, vykopli ho za jeho náznak práce, odešel do švýcarsko
+	- neuměl plavat, šel na plachetnici -> utopil se
+	- odpoutaný titánismus - "Odpoutaný prométheus"
+- Sir Walter Scott- 
+	- romanopisec, sběratel ústní lidové slovesnosti
+	- "Balada posledního Minstera", "dáma z jezera", "Ivan Hoe", "Rob Roy", "Klášter", "Opat", "Canil-worth", "Pirát", "nebezpečný hrad", "Quenti Durwald"

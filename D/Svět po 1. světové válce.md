@@ -1,0 +1,26 @@
+- viz. papír
+- versailleský mírový systém = systém smluv podepsaných na konferenci
+- společnost národů, svýcarsko ženeva, předchůdce osn; chtěli zabraňovat dalším válkám
+- konference v Locarnu,
+	- Itálie,Velká británie, Francie a Německo
+	- rýnský garanční pakt
+		- německo potvrzuje nedotknutelnost svých západních hranic, vchodní ale garantované nebyli
+## Evropa ve 20. letech
+- období hospodářské prosperity a relativního klidu a míru
+- Německo:
+	- vnik republiky tzv. "výmarská republika"
+		- demokratické německo
+		- president je Paul von Hindenburg
+		- "pivní puč" - v mnichově generál "Ludendorff", NSDAP
+			- chtěli svrhnout bavorskou vládu a časem i Berlínskou
+			- Hitler šel do vězení -> sepsal "mein kampf" - nastiňuje nadřazenost germánů a velký Německý stát
+		- Adolf Hitler
+			- rakušan, chtěl být malíř ale nevzali ho
+			- ještě před válkou odchází do Mnichova, bojuje za Německo
+			- po válce se dal do politiky (NSDAP)
+- Itálie:
+	- i po válce pořád monarchie
+	- nespokojenost italů s výslednými výdělky války -> vznik radikálních skupin -> fašisté
+	- Beneto Musolini - narcis
+		- byl zastřelen na hranici když utíkal se svou milenkou
+		- 1922 - "Pochod na řím"- vojenský pochod -> král pod tlakem jmenuje Musolíniho předsedou vlády

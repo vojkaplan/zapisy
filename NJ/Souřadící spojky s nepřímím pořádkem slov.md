@@ -1,0 +1,6 @@
+- podmět je za přísudkem
+- -> Ich bin krank, **deeshalb** gehe ich nich ins kino
+- -> Ich habe Fieber, **ausserdenn** habe ich kopfschmerzen
+- -> Wir lernen Deutch, **dann** gehen wir helfen
+- -> Zahle die Rechtung, **sonst** bist du nicht mein freund
+- -> Ich habe kopfschmerzen, **trotzdem** gehe ich zum den Ball

@@ -188,4 +188,34 @@ ___
 ## Svaly 
 - svalují
 - pracovní list
-h
+- sval těší než tuk
+- na konci se mění ve šlachy
+- využívají tzv. sincicium, a sarcomery
+- dělíme podle funkce: svěrač stahovač natahovač
+- mohou být antagonisticky (biceps-triceps) / synergeticky
+- atp + vápník -> šoupy šoup
+- hlava:
+	- minické a funkční 
+	- sval čelní a tylní - vrásky na čele
+	- kruhový sval oční
+- hrudník 
+	- dýchací svaly
+		- bránice - nahoru/dolů
+		- mezižeberní svaly
+		- velký prsní
+- ruka 
+	- supinace == čebravý pohyb
+- zadek
+	- velký,malý,střední sval hýčďový
+- noha
+	- dlouhý sval stehenní / krejčovský sval - nejdelší sval
+		- podílí se na rotaci kyčlí
+- svalová křeč - tetánie - nedostatek vápníku
+## tělní tekutiny
+- tekutiny mimo buňky
+- krev
+	- 
+- tkáňový mok
+	- 
+- míza / lymfa
+	- 

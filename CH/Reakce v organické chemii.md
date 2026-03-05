@@ -131,3 +131,28 @@ ___
 	- dehydrogenace ethanu
 	- pyrolýza methanu
 - ethyn - používá se ke svařování kovu, na výrobu plastu (PVC)
+## Areny
+- = aromatické uhlovodíky
+- např. rozpouštědla, výroba barev, plastů atd.
+- mohou být nebezpečné, toxické
+- nasycené uhlovodíky, v molekule je alespoň jeden aromatický kruh
+- název se pojil s charakteristickou vůní
+- základem a nejjednodušším zástupcem je benzen $C_6H_6$
+- struktura benzenu: střídají se jednoduché a dvojné vazby; jsou něco mezi
+	- stejná elektronová hustota; $\alpha = 120°$ ; hybridní orbitaly 
+- jejich typická reakce je elektrofilní aromatická substituce
+	- naruší se aromatická vazba, připojí se elektrofil -> extra vodík na druhém konci vazby -> vodík odejde
+	- k reakci potřebuje katalyzátor (např.  pro halogeny)
+	- typy reakcí (vyměníme -H za -X):
+		- halogenace (halogen nejčastěji -Br) - kat. $AlCl_3$,
+		- nitrace (-NO) - kat. $H_2SO_4$, 
+		- sulfonace (-$SO_3H$), 
+		- alkylace (-$CH_3$); potřebuje mít uhlovodík s halogenem; halogen + vodík -> spoj 
+		- acylace (-$COOH_3$); -||- zbytek od karboxylové kys. 
+- aktivující a deaktivujíc skupiny
+	- aktivující:  +M; dodávají $e^-$ do systému ; substituce ->-orto-para
+		- substituce jsou jednoduší než samotný benzen
+	- neaktivující:  -M; odebírá $e^-$ ze systému ; substituce -> -meta
+		- substituce jsou těžší než samotný benzen
+	- halogeny mají výjimku kvůli -M efektu
+	- chemie dělá brikule
